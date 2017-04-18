@@ -1,2 +1,0 @@
-# xjk.github.io
-blog
